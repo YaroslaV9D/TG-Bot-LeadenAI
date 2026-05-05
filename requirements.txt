@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+python-dotenv
+groq          # if you're using Groq
+google-generativeai  # if using Gemini
